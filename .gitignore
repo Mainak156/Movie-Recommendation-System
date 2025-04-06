@@ -1,0 +1,5 @@
+venv
+movies.pkl
+procfile
+setup.sh
+similarity_score.pkl
